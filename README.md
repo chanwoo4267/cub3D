@@ -46,7 +46,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![mp4](image/cub3d.mov)
+
+https://github.com/chanwoo4267/cub3D/assets/28883608/6f3cb919-6be1-47cf-89a0-4e0207246eee
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
