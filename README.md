@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Imgur](https://i.imgur.com/uZaL0PJ.mp4)
+![mp4](image/cub3d.mov)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
