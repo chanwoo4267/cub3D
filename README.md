@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Imgur](https://imgur.com/uZaL0PJ)
+![Imgur](https://imgur.com/uZaL0PJ.gif)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
